@@ -35,5 +35,5 @@ while(1):
 
   n.show()
 
-  time.sleep(300)                                           ##Can be changed to increase/decrease the frequency with which it checks the news
+ time.sleep(300)                                           ##Can be changed to increase/decrease the frequency with which it checks the news
   
